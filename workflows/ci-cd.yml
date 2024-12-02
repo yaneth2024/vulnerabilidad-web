@@ -25,10 +25,10 @@ jobs:
     - name: Run Tests
       run: |
         docker-compose run --rm web curl http://localhost:80
-
- - name: Run Snyk to check for vulnerabilities
+- name: Run Snyk to check for vulnerabilities
   uses: snyk/actions/node@v1
   with:
     command: monitor
+
        
 
