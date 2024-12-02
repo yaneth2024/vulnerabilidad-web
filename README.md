@@ -1,5 +1,5 @@
 # vulnerabilidad-web
-Crear una aplicación web sencilla
+Crear una aplicación web.
 Crea un archivo index.html  dentro del repositorio.
 
 En el directorio raíz del repositorio, crea un archivo llamado index.html con el siguiente contenido:
